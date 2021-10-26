@@ -1,0 +1,16 @@
+C:\Users\micha\source\repos\BST\BST\bin\Debug\net5.0\BST.exe
+C:\Users\micha\source\repos\BST\BST\bin\Debug\net5.0\BST.deps.json
+C:\Users\micha\source\repos\BST\BST\bin\Debug\net5.0\BST.runtimeconfig.json
+C:\Users\micha\source\repos\BST\BST\bin\Debug\net5.0\BST.runtimeconfig.dev.json
+C:\Users\micha\source\repos\BST\BST\bin\Debug\net5.0\BST.dll
+C:\Users\micha\source\repos\BST\BST\bin\Debug\net5.0\ref\BST.dll
+C:\Users\micha\source\repos\BST\BST\bin\Debug\net5.0\BST.pdb
+C:\Users\micha\source\repos\BST\BST\obj\Debug\net5.0\BST.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\BST\BST\obj\Debug\net5.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\BST\BST\obj\Debug\net5.0\BST.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\BST\BST\obj\Debug\net5.0\BST.AssemblyInfo.cs
+C:\Users\micha\source\repos\BST\BST\obj\Debug\net5.0\BST.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\BST\BST\obj\Debug\net5.0\BST.dll
+C:\Users\micha\source\repos\BST\BST\obj\Debug\net5.0\ref\BST.dll
+C:\Users\micha\source\repos\BST\BST\obj\Debug\net5.0\BST.pdb
+C:\Users\micha\source\repos\BST\BST\obj\Debug\net5.0\BST.genruntimeconfig.cache
